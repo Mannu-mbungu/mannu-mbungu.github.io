@@ -41,3 +41,17 @@ table, th, td {
 .hobbies img {
   float: right;
 }
+
+.text ul li {
+  list-style: none;
+}
+
+.name {
+  color: maroon;
+  text-transform: capitalize;
+
+}
+
+.hobbies ul li {
+  list-style: none;
+}
