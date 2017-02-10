@@ -1,0 +1,43 @@
+.head {
+  color: white;
+  background-color: maroon;
+  text-align: center;
+
+}
+.slideshow {
+  text-align: center;
+}
+
+.header2 {
+  text-align: center;
+  color: maroon;
+  text-decoration: underline;
+
+
+}
+
+.text {
+  width: 95%;
+  height: 40%;
+  text-align: center;
+  background-color: lightblue;
+  margin: 20px;
+  border: 2px black;
+  padding: 4px;
+  margin: 5px;
+  border: 2px solid maroon;
+  padding: 10px;
+
+}
+
+.profile img {
+  float: left;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.hobbies img {
+  float: right;
+}
