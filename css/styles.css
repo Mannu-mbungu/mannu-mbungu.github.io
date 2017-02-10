@@ -20,7 +20,7 @@
   width: 95%;
   height: 40%;
   text-align: center;
-  background-color: lightblue;
+  background-color: white;
   margin: 20px;
   border: 2px black;
   padding: 4px;
@@ -54,4 +54,32 @@ table, th, td {
 
 .hobbies ul li {
   list-style: none;
+}
+
+.profile {
+  width: 95%;
+  height: 40%;
+  text-align: center;
+  background-color: #fafafa;
+  margin: 20px;
+  border: 2px black;
+  padding: 4px;
+  margin: 5px;
+  border: 2px solid maroon;
+  padding: 10px;
+
+}
+
+.hobbies {
+  width: 95%;
+  height: 40%;
+  text-align: center;
+  background-color: lightblue;
+  margin: 20px;
+  border: 2px black;
+  padding: 4px;
+  margin: 5px;
+  border: 2px solid maroon;
+  padding: 10px;
+
 }
