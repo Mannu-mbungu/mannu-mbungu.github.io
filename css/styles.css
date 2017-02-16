@@ -2,6 +2,7 @@
   color: white;
   background-color: maroon;
   text-align: center;
+  margin-top: 5px;
 
 }
 .slideshow {
@@ -87,8 +88,4 @@ table, th, td {
   border: 2px solid maroon;
   padding: 10px;
 
-}
-
-.container {
-  height: 20%;
 }
